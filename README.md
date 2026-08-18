@@ -16,3 +16,17 @@
 Magisk Alpha 遵循 GPL-3.0 开源协议，允许自由分发。
 本人仅代为保存与分享，未对文件进行任何修改，亦未将其用于任何商业用途。
 所有权利归 Magisk Alpha 原作者所有。
+
+English Disclaimer
+
+This repository is intended for personal cross-device backup and download purposes only. All files are sourced from official websites or public channels.
+
+Special Notice:
+
+1. All files stored in this repository are official original versions, without any modification, cracking, or repackaging.
+2. This repository is used solely for personal learning and testing. It is not for any commercial use, nor does it involve large-scale distribution to the public.
+3. If any files stored in this repository involve copyright issues, or if the original software developers consider this storage inappropriate, please contact me via the email address below. I will verify the issue and delete the relevant files and apologize within 24 hours.
+
+Contact Email: 3607154790@qq.com
+
+Thanks to all developers for their hard work.
